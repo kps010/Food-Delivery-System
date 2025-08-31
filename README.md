@@ -29,5 +29,11 @@ This project allows customers to browse food items, place orders, and make payme
 
 ---
 
-## 📂 Project Structure
+
+## ⚙️ Technologies Used
+- Java (Core)
+- OOP concepts (Encapsulation, Inheritance, Polymorphism)
+- Console-based input/output
+
+---
 # Food-Delivery-System
